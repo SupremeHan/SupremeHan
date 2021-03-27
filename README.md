@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my github page. My name is Nikola, I am a Front End Developer based in Belgrade, Serbia. 
-My main focus is developing web applications using tehnologies such as React and NodeJS. I am also 
+My main focus is developing web applications using tehnologies such as React and Node. I am also 
 interested in UX/UI design and mobile development.
 
 
