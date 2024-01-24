@@ -1,4 +1,4 @@
-![Hej!](hej.png {width=100% height=100%})
+<img src="hej.png" width="100%" height="auto"/>
 
 ### Hi there 👋
 
